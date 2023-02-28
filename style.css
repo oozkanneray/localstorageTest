@@ -1,0 +1,13 @@
+body{
+    transition: 0.5s ease-in-out;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+
+}
+
+.text{
+    font-size:50px;
+    font-weight:bold ;
+}
